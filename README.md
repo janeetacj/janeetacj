@@ -2,7 +2,7 @@
 
 ### Aspiring Software Test Engineer | Manual QA | Software Quality Assurance
 
-I'm an MCA student building practical experience in software testing
+I'm an MCA graduate building practical experience in software testing
 and quality assurance. I'm interested in identifying defects, validating
 application functionality, and improving software quality through
 structured testing.
